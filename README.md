@@ -1,5 +1,7 @@
 # Particle Magic 3D
 
+![Particle Magic 3D — interação com partículas](particle-magic-3d-banner.jpeg)
+
 Experimento de partículas 3D com formas, gestos e comandos de voz opcionais.
 
 **Estado:** projeto experimental de portfólio, com melhorias de reprodutibilidade e testes. Autor: Waly Robert.
@@ -53,3 +55,4 @@ Use arquivos de exemplo sintéticos ou que você tenha autorização para compar
 ## Início e diagnóstico simplificados
 
 Após `npm ci`, execute `npm run diagnostico` para verificar Node, dependências, build e presença de configuração sem revelar chaves ou consumir cota. Execute `npm run iniciar` para compilar a versão atual e abrir o servidor local em um único terminal. A faixa de estado da interface distingue configuração ausente e integração ainda não comprovada. Encontrar uma chave não confirma que ela é válida nem que existe cota gratuita. Nenhum teste de geração é iniciado automaticamente.
+
